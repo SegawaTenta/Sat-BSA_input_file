@@ -1,0 +1,5 @@
+Sample_P1	/…/…/…/P1.fa.gz
+Sample_P2	/…/…/…/P2.fa.gz
+Sample_P3	/…/…/…/P3_1.fa.gz
+Sample_P3	/…/…/…/P3_2.fa.gz
+Sample_P3	/…/…/…/P3_3.fa.gz

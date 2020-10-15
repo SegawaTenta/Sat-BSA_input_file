@@ -1,0 +1,2 @@
+Sample_P1	/…/…/…/P1.sort.bam	/…/…/…/P1_alined.fa.gz	Sample_P2	/…/…/…/P2.sort.bam	/XXX/P2_alined.fa.gz
+Sample_P3	/…/…/…/P3.sort.bam	/…/…/…/P3_alined.fa.gz	Sample_P2	/…/…/…/P2.sort.bam	/XXX/P2_alined.fa.gz
